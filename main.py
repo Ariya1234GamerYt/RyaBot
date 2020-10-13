@@ -5,7 +5,7 @@ import os
 import time
 client = discord.Client()
 
-token = 'NzY0NTk5NTEzNzQ5OTEzNjIy.X4ImyQ.SBmN5r_KiCg_HaWCAm0l7uHRnN0'
+token = '
 
 Config = json.load(open("config.json"))
 
